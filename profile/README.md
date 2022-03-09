@@ -30,6 +30,12 @@ Welcome to the **[Merkely Meteor](https://www.merkely.com/blog/)**, where we tal
   <p>&nbsp;</p>
 
 
+-   [How are Docker digests calculated and are they mutable?](https://www.merkely.com/blog/how-are-docker-digests-calculated-and-are-they-mutable/)   
+   
+-   [How Merkely automates Change Management for Kubernetes workloads](https://www.merkely.com/blog/how-merkely-automates-change-management-for-kubernetes-workloads/)
+   
+-   [My experience of working remotely with our customers](https://www.merkely.com/blog/my-experience-of-working-remotely-with-our-customers/)
+
 -   [5 reasons why your CI system is a terrible Compliance System of Record](https://www.merkely.com/blog/5-reasons-why-your-ci-system-is-a-terrible-compliance-system-of-record/)
 
 -   [How to design a DevOps Compliance System of Record](https://www.merkely.com/blog/how-to-design-a-devops-compliance-system-of-record/)
