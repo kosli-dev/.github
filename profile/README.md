@@ -1,4 +1,4 @@
-### <h1> 👋 Welcome to Merkely
+### <h1> 👋 Welcome to Kosli
 
 ### <h3> DevOps Change Management platform for regulated teams  
 [Visit us online](https://www.merkely.com/)
