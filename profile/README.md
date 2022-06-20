@@ -1,15 +1,15 @@
 ### <h1> 👋 Welcome to Kosli
 
 ### <h3> DevOps Change Management platform for regulated teams  
-[Visit us online](https://www.merkely.com/)
+[Visit us online](https://www.kosli.com/)
   
 Merkely ensures Continuous Compliance so that every software change can be delivered without meetings, tickets, or delays. Deploy compliant software at DevOps speed.  
 
-[Book a FREE demo](https://www.merkely.com/live-demo/) <br />
-[View the app](https://app.merkely.com/cyber-dojo/environments/)
+[Book a FREE demo](https://calendly.com/kosli/demo) <br />
+[View the app](https://app.kosli.com/login)
 <p>&nbsp;</p>
 
--   💬 **MERKELY'S SOLUTION** Deploy changes fast and securely with DevOps Change Management. Unleash your full delivery potential by implementing DevOps Change Management in your DevOps pipelines and runtime environments
+-   💬 **KOSLI'S SOLUTION** Deploy changes fast and securely with DevOps Change Management. Unleash your full delivery potential by implementing DevOps Change Management in your DevOps pipelines and runtime environments
 
 -   🙌  Check out Kosli's [site](https://www.kosli.com/)!
 
