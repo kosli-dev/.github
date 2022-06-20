@@ -12,7 +12,7 @@
    <br />
    
 
-### <h1> ✍️ All the latest articles, tweets and activity @ Kolsi. 
+### <h1> ✍️ All the latest articles, tweets and activity @ Kosli. 
 
 
 Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all about DevOps, automation, continuous compliance and change management. Stay up to date with the latest news, updates and ch-ch-changes :nerd_face:
