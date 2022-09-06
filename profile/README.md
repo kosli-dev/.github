@@ -22,23 +22,23 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
--   https://www.kosli.com/blog/git-and-the-benefits-and-challenges-of-everything-as-code-1/
+-   [Git and the benefits and challenges of everything-as-code](https://www.kosli.com/blog/git-and-the-benefits-and-challenges-of-everything-as-code-1/)
 
--   [Tracking changes for your Amazon S3 and Lambda functions with Kosli] (https://www.kosli.com/blog/tracking-changes-for-your-amazon-s3-or-lambda-functions-with-kosli/)
+-   [Tracking changes for your Amazon S3 and Lambda functions with Kosli](https://www.kosli.com/blog/tracking-changes-for-your-amazon-s3-or-lambda-functions-with-kosli/)
 
--   [“Did I break prod?😰” The day I realized Kosli would’ve known the answer] (https://www.kosli.com/blog/did-i-break-prod-the-day-i-realized-kosli-wouldve-known-the-answer/)
+-   [“Did I break prod?😰” The day I realized Kosli would’ve known the answer](https://www.kosli.com/blog/did-i-break-prod-the-day-i-realized-kosli-wouldve-known-the-answer/)
 
--   [Why developers need a DevOps database] (https://www.kosli.com/blog/why-developers-need-a-devops-database/)
+-   [Why developers need a DevOps database](https://www.kosli.com/blog/why-developers-need-a-devops-database/)
 
--   [Merkely is now Kosli!] (https://www.kosli.com/blog/merkely-is-now-kosli/)
+-   [Merkely is now Kosli!](https://www.kosli.com/blog/merkely-is-now-kosli/)
 
--   [How to do Continuous Delivery in your ITIL framework?] (https://www.kosli.com/blog/how-can-i-do-continuous-delivery-in-my-itil-framework/)
+-   [How to do Continuous Delivery in your ITIL framework?](https://www.kosli.com/blog/how-can-i-do-continuous-delivery-in-my-itil-framework/)
 
--   [Continuous Compliance: A DevOps culture] (https://www.kosli.com/blog/continuous-compliance-a-devops-culture/)
+-   [Continuous Compliance: A DevOps culture](https://www.kosli.com/blog/continuous-compliance-a-devops-culture/)
 
--   [Why ITIL Change Management doesn’t work for DevOps teams] (https://www.kosli.com/blog/why-itil-change-management-doesn-t-work-for-devops/)
+-   [Why ITIL Change Management doesn’t work for DevOps teams](https://www.kosli.com/blog/why-itil-change-management-doesn-t-work-for-devops/)
 
--   [Visma Tech Talk with Kosli's Mike Long - DevOps: The Beginning of Infinity] (https://www.kosli.com/blog/visma-tech-talk-with-kosli-s-mike-long-devops-the-beginning-of-infinity/)
+-   [Visma Tech Talk with Kosli's Mike Long - DevOps: The Beginning of Infinity](https://www.kosli.com/blog/visma-tech-talk-with-kosli-s-mike-long-devops-the-beginning-of-infinity/)
 
 -   [How are Docker digests calculated and are they mutable?](https://www.kosli.com/blog/how-are-docker-digests-calculated-and-are-they-mutable/)   
    
