@@ -22,7 +22,7 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
--   [Git and the benefits and challenges of everything-as-code] (https://www.kosli.com/blog/git-and-the-benefits-and-challenges-of-everything-as-code-1/)
+-   https://www.kosli.com/blog/git-and-the-benefits-and-challenges-of-everything-as-code-1/
 
 -   [Tracking changes for your Amazon S3 and Lambda functions with Kosli] (https://www.kosli.com/blog/tracking-changes-for-your-amazon-s3-or-lambda-functions-with-kosli/)
 
