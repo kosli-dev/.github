@@ -22,6 +22,12 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
+-   [Does the GitOps emperor have no clothes?](https://www.kosli.com/blog/does-the-gitops-emperor-have-no-clothes/)
+
+-   [DevOps Compliance Agency (DCA) investigating The DevOps Enterprise Summit in Las vegas](https://www.kosli.com/blog/devops-compliance-authority-dca-investigating-the-devops-enterprise-summit-in-las-vegas/)
+
+-   [Review: Investments Unlimited - A Novel about DevOps, Security, Audit Compliance, and Thriving in the Digital Age](https://www.kosli.com/blog/investments-unlimited-a-novel-about-devops-security-audit-compliance-and-thriving-in-the-digital-age/)
+
 -   [Git and the benefits and challenges of everything-as-code](https://www.kosli.com/blog/git-and-the-benefits-and-challenges-of-everything-as-code-1/)
 
 -   [Tracking changes for your Amazon S3 and Lambda functions with Kosli](https://www.kosli.com/blog/tracking-changes-for-your-amazon-s3-or-lambda-functions-with-kosli/)
