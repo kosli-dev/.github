@@ -22,6 +22,28 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
+- [Looking back on 2022: Kosli wrap-up](https://www.kosli.com/blog/looking-back-on-2022-kosli-wrap-up/)
+
+- [10 books you need to read if you’re building a developer tool company](https://www.kosli.com/blog/10-books-you-need-to-read-if-youre-building-a-developer-tool-company/)
+
+- [Why I joined Kosli - a story about DevOps and modern governance](https://www.kosli.com/blog/why-i-joined-kosli-a-story-about-devops-and-modern-governance/)
+
+- [Understanding Kubernetes Events: A Guide](https://www.kosli.com/blog/understanding-kubernetes-events-a-guide/)
+
+- [Kosli Changelog - November 2022](https://www.kosli.com/blog/kosli-changelog-november-2022/)
+
+- [“Did I break prod?” Part 2. Introducing the Kosli Search command](https://www.kosli.com/blog/did-i-break-prod-part-2-introducing-the-kosli-search-command/)
+
+- [The Ultimate Guide to git blame: A How To with Examples](https://www.kosli.com/blog/the-ultimate-guide-to-git-blame-a-how-to-with-examples/)
+
+- [Git Blame in VS Code: The 4 Best Options](https://www.kosli.com/blog/git-blame-in-vs-code-the-4-best-options/)
+
+- [What's going on at Kosli?](https://www.kosli.com/blog/whats-going-on-at-kosli-1/)
+
+-   [How to define your software process using the DevOpsCTL Framework](https://www.kosli.com/blog/how-to-define-your-software-process-using-the-devopsctl-framework/)
+
+-   [Docker Tags Demystified: A Guide With Examples](https://www.kosli.com/blog/docker-tags-demystified-a-guide-with-examples/)
+
 -   [Does the GitOps emperor have no clothes?](https://www.kosli.com/blog/does-the-gitops-emperor-have-no-clothes/)
 
 -   [DevOps Compliance Agency (DCA) investigating The DevOps Enterprise Summit in Las vegas](https://www.kosli.com/blog/devops-compliance-authority-dca-investigating-the-devops-enterprise-summit-in-las-vegas/)
