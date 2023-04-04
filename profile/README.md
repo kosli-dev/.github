@@ -22,7 +22,7 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
-- []()
+- [How to Provision Your AWS Lambda Function Using Terraform](https://www.kosli.com/blog/how-to-provision-your-aws-lambda-function-using-terraform/)
 
 - [Kosli Changelog - March 2023](https://www.kosli.com/blog/kosli-changelog-march-2023/)
 
