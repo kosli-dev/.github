@@ -1,5 +1,7 @@
 ### <h1> 👋 Welcome to Kosli
 
+Kosli is a tool for DevOps teams who want to ship lots of changes AND stay in compliance with regulation. DevOps teams in industries like banking, healthcare, and automotive tell us that gathering evidence for compliance with standards relies on a lot of processes that are manual, unreliable, and slow everything down. So, if you’re struggling to stay on top of how your software changes - especially when it comes to audit, compliance, security, and incident response why not try Kosli for [free] (https://app.kosli.com/)
+
 -   🙌  Check out Kosli's [site](https://www.kosli.com/)!
 
 -   💻  Connect with me on [LinkedIn](https://www.linkedin.com/company/kosli-dev)
