@@ -24,6 +24,8 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
+- [Staying Ahead of Threats with Continuous Security Monitoring Tools for DevOps](https://www.kosli.com/blog/staying-ahead-of-threats-with-continuous-security-monitoring-tools-for-devops/)
+
 - [The DevOps Security and Compliance Guide](https://www.kosli.com/blog/the-devops-security-and-compliance-guide/)
 
 - [How to Provision Your AWS Lambda Function Using Terraform](https://www.kosli.com/blog/how-to-provision-your-aws-lambda-function-using-terraform/)
