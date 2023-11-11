@@ -23,6 +23,7 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
+
 - [Kosli Changelog - October 2023](https://www.kosli.com/blog/kosli-changelog-october-2023/)
 
 - [Implementing Backstage 3: Integrating with Existing Tools Using Plugins](https://www.kosli.com/blog/implementing-backstage-3-integrating-with-existing-tools-using-plugins/)
