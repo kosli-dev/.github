@@ -23,6 +23,81 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
+- [Kosli Changelog - October 2023](https://www.kosli.com/blog/kosli-changelog-october-2023/)
+
+- [Implementing Backstage 3: Integrating with Existing Tools Using Plugins](https://www.kosli.com/blog/implementing-backstage-3-integrating-with-existing-tools-using-plugins/)
+
+- [Implementing Backstage 6: Deploying Backstage on Kubernetes](https://www.kosli.com/blog/implementing-backstage-6-deploying-backstage-on-kubernetes/)
+
+- [Implementing Backstage 5: Using the Kubernetes Plugin in Backstage](https://www.kosli.com/blog/implementing-backstage-5-using-the-kubernetes-plugin-in-backstage/)
+
+- [Implementing Backstage 4: Security and Compliance](https://www.kosli.com/blog/implementing-backstage-4-security-and-compliance/)
+
+- [What Is Continuous Security Monitoring Software?](https://www.kosli.com/blog/what-is-continuous-security-monitoring-software/)
+
+- [Implementing Backstage 2: Using the Core Features](https://www.kosli.com/blog/implementing-backstage-2-using-the-core-features/)
+
+- [Implementing Backstage 1: Getting Started](https://www.kosli.com/blog/implementing-backstage-1-getting-started/)
+
+- [What is an SBOM and do you REALLY need it?](https://www.kosli.com/blog/what-is-an-sbom-and-do-you-really-need-it/)
+
+- [Kosli - A Flight Data Recorder for your Runtime Environments](https://www.kosli.com/blog/kosli-a-flight-data-recorder-for-your-runtime-environments/)
+
+- [Kosli Changelog - April 2023](https://www.kosli.com/blog/kosli-changelog-april-2023/)
+
+- [How to prove your SDLC is being followed for compliance with medical standards like IEC 62304](https://www.kosli.com/blog/how-to-prove-your-sdlc-is-being-followed-for-compliance-with-medical-standards-like-iec-62304/)
+
+- [Kosli Changelog - July 2023](https://www.kosli.com/blog/kosli-changelog-july-2023/)
+
+- [Ace your way through painless audits with Kosli's Evidence Vault](https://www.kosli.com/blog/new-kosli-feature-evidence-vault/)
+
+- [From Monitoring to Action - Get Faster Incident Response with Change Forensics](https://www.kosli.com/blog/from-monitoring-to-action-get-faster-incident-response-with-change-forensics/)
+
+- [Kosli Changelog - June 2023](https://www.kosli.com/blog/kosli-changelog-june-2023/)
+
+- [How to record events in your CI pipelines with Kosli Flows](https://www.kosli.com/blog/know-whats-really-happening-in-your-ci-pipelines-with-kosli-flows/)
+
+- [Data Tampering: A Comprehensive Guide](https://www.kosli.com/blog/data-tampering-a-comprehensive-guide/)
+
+- [Terraform Import: What It Is and How to Use It](https://www.kosli.com/blog/terraform-import-what-it-is-and-how-to-use-it/)
+
+- [CRLF Injection, Explained: An In-Depth Guide](https://www.kosli.com/blog/crlf-injection-explained-an-in-depth-guide/)
+
+- [Kosli Changelog - May 2023](https://www.kosli.com/blog/kosli-changelog-may-2023/)
+
+- [This $80m Banking Incident shows that Change Controls don't work](https://www.kosli.com/blog/the-swedbank-outage-shows-that-change-controls-dont-work/)
+
+- [The Dark Side of DevSecOps and the case for Governance Engineering](https://www.kosli.com/blog/the-dark-side-of-devsecops-mitigating-risk-beyond-the-supply-chain/)
+
+- [Authentication Failures: Definition, Consequences, and Prevention](https://www.kosli.com/blog/authentication-failures-definition-consequences-and-prevention/)
+
+- [How to Use Ansible Copy Module: An In-Depth Guide](https://www.kosli.com/blog/how-to-use-ansible-copy-module-an-in-depth-guide/)
+
+- [Command Injection: A Guide to Types, Risks, and Prevention](https://www.kosli.com/blog/command-injection-a-guide-to-types-risks-and-prevention/)
+
+- [What Is Broken-Access Control? Examples and Prevention](https://www.kosli.com/blog/what-is-broken-access-control-examples-and-prevention/)
+
+- [Docker Secrets: An Introductory Guide with Examples](https://www.kosli.com/blog/docker-secrets-an-introductory-guide-with-examples/)
+
+- [The Benefits and Challenges of Building an SBOM](https://www.kosli.com/blog/the-benefits-and-challenges-of-building-an-sbom/)
+
+- [The Code Story podcast - how to deliver software with Continuous Compliance and Kosli](https://www.kosli.com/blog/the-code-story-podcast-how-to-deliver-software-with-continuous-compliance-and-kosli/)
+
+- [Kosli Changelog - September 2023](https://www.kosli.com/blog/kosli-changelog-september-2023/)
+
+- [Evaluating Backstage 1: Why Backstage?](https://www.kosli.com/blog/evaluating-backstage-1-why-backstage/)
+
+- [Evaluating Backstage 2: How Backstage Works](https://www.kosli.com/blog/evaluating-backstage-2-how-backstage-works/)
+
+- [Evaluating Backstage 3: Backstage vs. Competitors](https://www.kosli.com/blog/evaluating-backstage-3-backstage-vs-competitors/)
+
+- [How to Track and Enforce Snyk Scans Across Your Production Environments](https://www.kosli.com/blog/how-to-track-and-enforce-snyk-scans-across-your-production-environments/)
+
+- [Kosli Changelog - August 2023](https://www.kosli.com/blog/stay-on-top-of-every-change-with-kosli-notifications/)
+
+- [Stay on top of every change with Kosli Notifications](https://www.kosli.com/blog/kosli-changelog-august-2023/)
+
+- [How to record a business process with Kosli’s Audit Trail](https://www.kosli.com/blog/how-to-record-a-business-process-with-koslis-audit-trail/)
 
 - [Staying Ahead of Threats with Continuous Security Monitoring Tools for DevOps](https://www.kosli.com/blog/staying-ahead-of-threats-with-continuous-security-monitoring-tools-for-devops/)
 
