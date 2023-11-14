@@ -24,6 +24,10 @@ Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all 
 🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
+- [Succeeding with Backstage 2: Building and Maintaining Custom Plugins]([https://www.kosli.com/blog/kosli-changelog-october-2023/](https://www.kosli.com/blog/succeeding-with-backstage-part-1-customizing-the-look-and-feel-of-backstage/)
+
+- [Succeeding with Backstage 1: Customizing the Look and Feel of Backstage]([https://www.kosli.com/blog/succeeding-with-backstage-building-and-maintaining-custom-plugins/)
+
 - [Kosli Changelog - October 2023](https://www.kosli.com/blog/kosli-changelog-october-2023/)
 
 - [Implementing Backstage 3: Integrating with Existing Tools Using Plugins](https://www.kosli.com/blog/implementing-backstage-3-integrating-with-existing-tools-using-plugins/)
