@@ -1,4 +1,4 @@
-### <h1> 👋 Welcome to Kosli
+### <h1> Welcome to Kosli
 
 Automate governance, accelerate delivery, stay compliant.
 
@@ -12,7 +12,7 @@ Kosli automates the compliance bottlenecks in your software delivery process, gi
    <br />
    
 
-### <h1> ✍️ All of the latest articles, tweets and activity @ Kosli. 
+### <h1> All of the latest articles and activity @ Kosli. 
 
 
 Welcome to the **[Kosli blog](https://www.kosli.com/blog/)**, where we talk all about DevOps, automation, continuous compliance and change management. Stay up to date with the latest news, updates and ch-ch-changes :nerd_face:
