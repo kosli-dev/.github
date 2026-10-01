@@ -1,8 +1,8 @@
 ### <h1> Welcome to Kosli
 
-Automate governance, accelerate delivery, stay compliant.
+Governance Infrastructure for AI SDLC
 
-Kosli automates the compliance bottlenecks in your software delivery process, giving you speed, security, and audit-ready proof—at scale.
+Kosli is a platform that engineers the controls, evidence, and audit trails needed by regulated industries to ship software at agentic speed without losing compliance.
 
 -   🙌  Check out Kosli's [site](https://www.kosli.com/)!
 
